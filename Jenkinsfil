@@ -4,7 +4,7 @@ stage('prueba')
 {
 sh 'hola mundo Git hub wamaya1'
 }
-stage ('prueba2.0')
+stage ('prueba3.0')
 {
 
 }
