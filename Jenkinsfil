@@ -2,7 +2,9 @@ node
 {
 stage('prueba')
 {
+
 sh 'hola mundo Git hub wamaya1'
+
 }
 stage ('prueba3.0')
 {
